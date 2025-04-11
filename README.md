@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Thakrare</h1>
 <h3 align="center">DevOps & Cloud Computing Enthusiast | Passionate about Linux, AWS, and Automation</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on **Animal Adoption and Rescue Services Platform**  
 - 🌱 I’m currently learning **AWS, Docker, Azure, and CloudFormation**  
@@ -44,4 +44,3 @@
 
 ---
 
-<p><img align="center"  alt="ashuthakare" /></p>
