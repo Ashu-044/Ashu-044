@@ -44,4 +44,4 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashuthakare&show_icons=true&locale=en" alt="ashuthakare" /></p>
+<p><img align="center"  alt="ashuthakare" /></p>
