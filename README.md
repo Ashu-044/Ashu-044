@@ -2,6 +2,7 @@
 <h3 align="center">DevOps & Cloud Computing Enthusiast | Passionate about Linux, AWS, and Automation</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+
 - 🔭 I’m currently working on **Animal Adoption and Rescue Services Platform**  
 - 🌱 I’m currently learning **AWS, Docker, Azure, and CloudFormation**  
 - 💬 Ask me about **DevOps Tools, Linux, Cloud Infrastructure**  
