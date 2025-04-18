@@ -39,7 +39,7 @@
 
 <h3 align="left">📚 Education:</h3>
 
-- 🎓 **BCA - DY Patil International University**, 2022–Present (8.1 GPA)  
+- 🎓 **BCA - DY Patil International University**, 2022–Present (7.5 GPA)  
 - 🏫 **HSC - Maharashtra State Board**, 2021 (83%)  
 - 🏫 **SSC - Maharashtra State Board**, 2019 (79%)  
 
