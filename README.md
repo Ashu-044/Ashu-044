@@ -8,7 +8,7 @@
 ## 👨‍🎓 About Me
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at MIT World Peace University  
-- 💻 Strong interest in **Cloud Computing, DevOps, and Backend Development**
+- 💻 Passionate about **Java Development, Backend Engineering, and Cloud Technologies**
 - 🌱 Currently learning **Core Java, Data Structures, and Data Science**
 - ☁️ Exploring **AWS, Docker, Linux & Cloud Infrastructure**
 - 🚀 Passionate about building scalable and efficient systems
