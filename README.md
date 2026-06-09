@@ -11,7 +11,7 @@
 - 💻 Passionate about **Java Development, Backend Engineering, and Cloud Technologies**
 - 🌱 Currently learning **Core Java, Data Structures, and Data Science**
 - ☁️ Exploring **AWS, Docker, Linux & Cloud Infrastructure**
-- 🚀 Passionate about building scalable and efficient systems
+- 🚀 Interested in building scalable and efficient systems
 - 📫 Reach me at: **ashutoshthakare04@gmail.com**
 - 📞 Phone: **+91-7972414087**
 - 💼 LinkedIn: [ashutosh-thakare](https://www.linkedin.com/in/ashutosh-thakare-636b60281)
