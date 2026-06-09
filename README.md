@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Thakare</h1>
-<h3 align="center">MCA Student at MIT-WPU | Cloud & DevOps Enthusiast | Java & Data Science Learner</h3>
+<h3 align="center">MCA Student at MIT-WPU | Java Developer | Data Science Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -9,7 +9,7 @@
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at MIT World Peace University  
 - 💻 Passionate about **Java Development, Backend Engineering, and Cloud Technologies**
-- 🌱 Currently learning **Core Java, Data Structures, and Data Science**
+- 🌱 Currently learning **Core Java**, **Data Structures & Algorithms**, and exploring **Data Science & AI/ML**
 - ☁️ Exploring **AWS, Docker, Linux & Cloud Infrastructure**
 - 🚀 Interested in building scalable and efficient systems
 - 📫 Reach me at: **ashutoshthakare04@gmail.com**
