@@ -87,7 +87,7 @@
 
 ## 🎯 Career Objective
 
-To build a strong career in Cloud Computing and Software Development by applying my knowledge of Java, Data Science, and DevOps practices to develop scalable and efficient solutions.
+To build a strong career in Java Development and Software Engineering by leveraging my knowledge of Data Science and Cloud Technologies to create scalable and efficient solutions.
 
 ---
 
